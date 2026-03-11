@@ -6,8 +6,7 @@
 
  
 
-🔗    🔭 I’m currently 1st yr student at Sir MVIT college Bangalore<br>🌱 I’m currently learning MERN Stack and DSA<br>💬Reach out to me in    
-       sanjaymanju179@gmail.com<br> 🔗 My linkedIn www.linkedin.com/in/sanjaym179
+🔗    🔭 I’m currently 1st yr student at Sir MVIT college Bangalore<br>🌱 I’m currently learning MERN Stack and DSA<br>💬Reach out to me in sanjaymanju179@gmail.com<br> 🔗 My linkedIn www.linkedin.com/in/sanjaym179
 
 
 🔗  GitHub Stats:
